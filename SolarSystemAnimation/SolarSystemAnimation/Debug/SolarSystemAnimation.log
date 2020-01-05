@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\basant babu bhandari\information file\engineering projects\computer graphics\solarsystemanimation\solarsystemanimation\source.cpp(78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\basant babu bhandari\information file\engineering projects\computer graphics\solarsystemanimation\solarsystemanimation\source.cpp(140): warning C4305: '+=': truncation from 'double' to 'float'
+  SolarSystemAnimation.vcxproj -> D:\Basant Babu Bhandari\information file\engineering projects\computer graphics\SolarSystemAnimation\Debug\SolarSystemAnimation.exe
